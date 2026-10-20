@@ -1,0 +1,6 @@
+{
+  "excludes": [
+    "work/notebooks/flyrank-ml-i-starter",
+    ".claude"
+  ]
+}

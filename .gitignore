@@ -34,3 +34,6 @@ __pycache__/
 .venv/
 venv/
 .env
+
+# Others
+flyrank_refresh_model_results.pdf
